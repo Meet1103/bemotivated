@@ -1,6 +1,6 @@
 ## Live Demo
 
-[bemotivated](https://meet1103.github.io/weather-app/)
+[bemotivated](https://meet1103.github.io/bemotivated/)
 
 ## Stack
 
